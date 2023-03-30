@@ -46,6 +46,10 @@ nav{
     background-color: green;
     color: white;
 }
+.white{
+    color: black;
+    background-color: white;
+}
 
 /* texto e interatividade*/
 h1{
