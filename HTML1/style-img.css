@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0);
+
+.material-symbols-outlined {
+  text-align: initial;
+  margin-top: 1rem;
+  position: fixed;
+  top: 1rem;
+  right: 5rem;
+  font-size: 4rem;
+  color: black;
+  background-color: inherit;
+
+
+}
+
+.white-img {
+  color: white;
+
+}
